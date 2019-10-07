@@ -1,0 +1,11 @@
+﻿  blackjack.cpp
+  card.cpp
+  dealer.cpp
+  deck.cpp
+  game.cpp
+c:\mytasks\blackjack\blackjack\game.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  genericPlayer.cpp
+  hand.cpp
+  player.cpp
+  Создание кода...
+  blackjack.vcxproj -> C:\myTasks\blackjack\Debug\blackjack.exe
